@@ -1,7 +1,9 @@
-public class Sample{
-public static void main (string []args])
-{
-System.out.println("Welcome sathish");
-System.out.println("Jekins is waiting");
+public class HelloWorld {
+
+public static void main(String[] args) {
+
+System.out.println("Hello Sathish  ");
+System.out.println("welcome to Jenkins World.");
 }
+
 }
