@@ -3,7 +3,5 @@ public static void main (string []args])
 {
 System.out.println("Welcome sathish");
 System.out.println("Jekins is waiting");
-System.out.println("Welcome sathish");
-System.out.println("Welcom Jekins");
 }
 }
